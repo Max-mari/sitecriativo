@@ -1,2 +1,20 @@
-.cabecalho { 
-     
+*{ 
+     margin;
+     padding;
+
+}
+ .cabeçalho {
+    background-color: rgb(0, 0, 0);
+    color: #FFFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+
+ }
+.cabeçalho-imagem{
+ width: 8%;
+ border-radius: 22px;
+
+
+}
