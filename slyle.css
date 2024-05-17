@@ -11,8 +11,8 @@ body {
 
 /*Iniciar Seção cabeçalho*/
 .cabecalho {
-    background-color: #424E61; /*cor de fundo*/
-    color: #ffffff; /*cor*/
+    background-color: #678ecc; /*cor de fundo*/
+    color: #0b3257; /*cor*/
     display: flex; /*propriedade flex para organizar os itens do cabaçalho, lado a lado*/
     justify-content: space-around; /*alinha as imagens e os textos com espaçamento entre eles*/
     align-items: center; /*alinhamento de itens centralizado*/
@@ -38,7 +38,7 @@ a propriedade display com o valor inline-block:*/
 
 .cabecalho-lista-item a {
    text-decoration: none; /**/
-   color: #000000;/*cor*/
+   color: #257f8f;/*cor*/
 }
 
 /*Efeito alterar a cor quando passa o mouse*/
