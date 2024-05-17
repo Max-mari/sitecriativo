@@ -11,8 +11,8 @@ body {
 
 /*Iniciar Seção cabeçalho*/
 .cabecalho {
-    background-color: #818181; /*cor de fundo*/
-    color: #ff0000; /*cor*/
+    background-color: #424E61; /*cor de fundo*/
+    color: #ffffff; /*cor*/
     display: flex; /*propriedade flex para organizar os itens do cabaçalho, lado a lado*/
     justify-content: space-around; /*alinha as imagens e os textos com espaçamento entre eles*/
     align-items: center; /*alinhamento de itens centralizado*/
@@ -38,22 +38,22 @@ a propriedade display com o valor inline-block:*/
 
 .cabecalho-lista-item a {
    text-decoration: none; /**/
-   color: #ffd0d0;/*cor*/
+   color: #000000;/*cor*/
 }
 
 /*Efeito alterar a cor quando passa o mouse*/
 a:hover {
-    color:#882b00; /*cor*/
+    color:#16a5f8; /*cor*/
 }
 
 /*alterar a cor quando clicar com o mouse*/
 a:active{
-    color:rgb(248, 105, 9); /**/
+    color:rgb(199, 215, 246); /**/
 }
 
 /*INICIO SEÇÃO ESCOLA*/
 .escola{
-    background-image: linear-gradient(#ff4e2f, #424E61);    /*define um gradiente linear como a imagem de fundo)*/ 
+    background-image: linear-gradient(#16a5f8, #424E61);    /*define um gradiente linear como a imagem de fundo)*/ 
     color: #000000; /*cor*/
     display: flex; /*organizar a estrutura do nosso conteúdo*/
     justify-content: center; /*alinha imagem e os textos com espaçamentos entre eles*/
@@ -62,7 +62,7 @@ a:active{
 
 .escola-div-conteudo{
     width: 45%; /*largura*/
-    color: #ffaeae;/*cor*/ 
+    color: #000000;/*cor*/ 
 }
 
 .escola-titulo{
@@ -85,7 +85,7 @@ a:active{
 
 /*INICIO SEÇÃO ESTUDANTE*/
 .estudante{
-    background-color: #940000;   /* cor de fundo*/
+    background-color: #16a5f8;   /* cor de fundo*/
     color: #000000;/*cor*/
 }
 .estudante-titulo{
@@ -131,7 +131,7 @@ p{
 
 /*SEÇÃO RODAPÉ*/
 .rodape{
-    background-color:  #e45858; /*define um gradiente linear como a imagem de fundo)*/ 
+    background-color:  #424E61; /*define um gradiente linear como a imagem de fundo)*/ 
 }
 
 .copyright{
